@@ -44,11 +44,11 @@ PrivacyGuard-AI/
 ├── requirements.txt
 ├── README.md
 ├── modules/
-│   ├── __init__.py
+│
 │   ├── extractor.py
 │   ├── nlp_processor.py
 │   ├── risk_analyzer.py
-│   └── report_generator.py
+│   
 └── data/
     └── dataset.csv
 
