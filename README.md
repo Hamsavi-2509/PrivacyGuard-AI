@@ -55,40 +55,25 @@ PrivacyGuard-AI/
  ⚙️ Installation and Setup
 
  1. Clone the repository
-
-git clone YOUR_GITHUB_REPOSITORY_URL
+     git clone YOUR_GITHUB_REPOSITORY_URL
 
  2. Open the project folder
+       cd PrivacyGuard-AI
 
-
-cd PrivacyGuard-AI
-
-
- 3. Create a virtual environment
-
-
-python -m venv .venv
-
+ 4. Create a virtual environment
+      python -m venv .venv
 
  4. Activate the environment on Windows
+     .venv\Scripts\activate
 
-
-.venv\Scripts\activate
-
-
- 5. Install dependencies
-
-
-pip install -r requirements.txt
-
+5. Install dependencies
+     pip install -r requirements.txt
 
 6. Run the application
+     streamlit run app.py
 
 
-streamlit run app.py
-
-
- 📊 Expected Output
+📊 Expected Output
 
 The application displays an overall privacy risk score, risk level, category-wise analysis, high-risk statements, and downloadable reports.
 
