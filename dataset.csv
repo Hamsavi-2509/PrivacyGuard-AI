@@ -1,0 +1,79 @@
+text,category,risk
+"We collect your name, email address, phone number and other personal information.",Personal Data Collection,High
+"We collect your email address when you create an account.",Personal Data Collection,Medium
+"We may collect your name and contact details to provide our services.",Personal Data Collection,Medium
+"We collect information about your device and IP address.",Personal Data Collection,Medium
+"We may share your personal information with third party service providers.",Third Party Sharing,High
+"Your information may be shared with our business partners.",Third Party Sharing,High
+"We may disclose your information to selected service providers.",Third Party Sharing,Medium
+"We do not sell your personal information to third parties.",Third Party Sharing,Low
+"We use cookies to track your browsing activities.",Tracking and Cookies,High
+"We use cookies to remember your preferences.",Tracking and Cookies,Low
+"We may use tracking technologies to understand how you use our website.",Tracking and Cookies,Medium
+"We use analytics cookies to improve our services.",Tracking and Cookies,Low
+"We collect your precise location information.",Location Data,High
+"We may use your location to provide location-based services.",Location Data,Medium
+"We collect approximate location information from your device.",Location Data,Medium
+"We do not collect precise location information.",Location Data,Low
+"We retain your personal information for as long as necessary.",Data Retention,Medium
+"We retain account information after account closure for legal purposes.",Data Retention,Medium
+"We permanently delete your personal information when it is no longer required.",Data Retention,Low
+"You may request deletion of your personal information.",User Rights,Low
+"You have the right to access and update your personal information.",User Rights,Low
+"You may request a copy of the information we hold about you.",User Rights,Low
+"You can opt out of certain data processing activities.",User Rights,Low
+"We use encryption to protect your personal information.",Data Security,Low
+"We implement security measures to prevent unauthorized access.",Data Security,Low
+"We may monitor our systems to detect suspicious activity.",Data Security,Low
+"We use appropriate technical and organizational measures to protect your data.",Data Security,Low
+"In the event of a data breach, we may notify affected users.",Data Breach,Medium
+"Your personal information may be exposed if our systems are compromised.",Data Breach,High
+"We may disclose information when required to investigate security incidents.",Data Breach,Medium
+"We take steps to protect your information from unauthorized access.",Data Security,Low
+"We collect your date of birth and contact information.",Personal Data Collection,Medium
+"We collect information you provide when registering for our services.",Personal Data Collection,Medium
+"We may collect additional information when you contact customer support.",Personal Data Collection,Medium
+"We collect information from forms that you submit on our website.",Personal Data Collection,Medium
+"We may collect your account details to manage your account.",Personal Data Collection,Medium
+
+"We may share information with companies that help us operate our services.",Third Party Sharing,High
+"We may provide your information to trusted third party providers.",Third Party Sharing,High
+"We may share information with affiliates and partners.",Third Party Sharing,High
+"We may disclose personal information to vendors who provide services for us.",Third Party Sharing,High
+"We do not share your information with unrelated third parties without permission.",Third Party Sharing,Low
+
+"We use cookies to remember your login preferences.",Tracking and Cookies,Low
+"Our website uses cookies and similar technologies.",Tracking and Cookies,Medium
+"We use tracking technologies for analytics purposes.",Tracking and Cookies,Medium
+"You can manage your cookie preferences through your browser.",Tracking and Cookies,Low
+"We may use cookies to personalize your experience.",Tracking and Cookies,Medium
+
+"We collect location information when you use our mobile application.",Location Data,Medium
+"We may collect GPS location information from your device.",Location Data,High
+"Location information may be used to provide nearby services.",Location Data,Medium
+"You can disable location services on your device.",Location Data,Low
+"We do not store precise GPS location information.",Location Data,Low
+
+"We retain personal information only for the period necessary.",Data Retention,Medium
+"We may retain your information to comply with legal obligations.",Data Retention,Medium
+"Some information may be retained for business and legal purposes.",Data Retention,Medium
+"We delete information when the retention period expires.",Data Retention,Low
+"You may request deletion of information that is no longer required.",Data Retention,Low
+
+"You may request access to your personal information.",User Rights,Low
+"You may correct inaccurate personal information.",User Rights,Low
+"You may withdraw your consent for certain processing.",User Rights,Low
+"You may contact us regarding your privacy rights.",User Rights,Low
+"You have rights regarding how your personal information is processed.",User Rights,Low
+
+"We encrypt sensitive information during transmission.",Data Security,Low
+"We use security controls to protect personal information.",Data Security,Low
+"We regularly review our security practices.",Data Security,Low
+"We use authentication measures to protect user accounts.",Data Security,Low
+"We take reasonable steps to prevent unauthorized access.",Data Security,Low
+
+"We may investigate suspected data security incidents.",Data Breach,Medium
+"We will take appropriate action if a security breach occurs.",Data Breach,High
+"We may notify users about a security incident when required.",Data Breach,Medium
+"We have procedures for responding to data breaches.",Data Breach,Medium
+"A security incident may result in unauthorized disclosure of information.",Data Breach,High
